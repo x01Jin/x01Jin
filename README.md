@@ -66,6 +66,26 @@ const jin = {
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<img width="48%" src="https://github-readme-stats-omega-ten-13.vercel.app/api?username=x01Jin&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=x01Jin&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Activity Graph" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 </div>
@@ -120,23 +140,6 @@ const jin = {
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img width="48%" src="https://github-readme-stats-omega-ten-13.vercel.app/api?username=x01Jin&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=x01Jin&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=x01Jin&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
 ## 💬 Let's Connect!
 
 <a href="mailto:ajph1082@gmail.com">
@@ -145,14 +148,6 @@ const jin = {
 <a href="https://x01jin.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br/><br/>
 
