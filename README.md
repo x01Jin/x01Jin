@@ -8,13 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=It+works+on+my+machine.;We+can+add+tests+later.+%28I+forgor%29;We%27ll+fix+it+in+the+next+release.;idk,+pretend+this+shi+is+funny;i+already+ran+out+of+shi+to+say)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=x01Jin&style=flat-square&color=000000&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-black?style=flat-square)
-![Status](https://img.shields.io/badge/STATUS-Building-white?style=flat-square&labelColor=black)
-
 </div>
-
-<br/>
 
 ---
 
