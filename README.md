@@ -24,8 +24,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
 </div>
 
 <table align="center">
