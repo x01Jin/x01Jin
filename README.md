@@ -4,55 +4,13 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnltdWVmbTFvd2dnNGM1eGQyNW5seXR5cHRweXZsdm5hZDI4eXlnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MSemvqMIRY3jMcvpd2/giphy.gif" alt="Coding Animation" width="300" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=It+works+on+my+machine.;We+can+add+tests+later.+%28I+forgor%29;We%27ll+fix+it+in+the+next+release.;idk,+pretend+this+shi+is+funny;i+already+ran+out+of+shi+to+say)](https://git.io/typing-svg)
+### "I'm just your ordinary chill guy that sometimes develops something for fun"
 
 </div>
 
----
+<br />
 
 <div align="center">
-
-## About Me
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const jin = {
-  role: "Software Engineer",
-  languages: ["JavaScript", "TypeScript", "Python"],
-  focus: "uhh, something something yes",
-};
-```
-
-- "Management doesn't get tech."
-- "I need three monitors to be productive."
-- "No, we must use [New Framework]."
-- "If you want it tomorrow, it will be bad."
-
-</td>
-<td width="50%">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGw3MnNlNHhsd2RpZG5haHJiazcyN2ljeHFnb282aWpzNno1M3Z0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G8ohn89sOKlKHACPeB/giphy.gif" alt="Tech Animation" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-<img width="48%" src="https://github-readme-stats-omega-ten-13.vercel.app/api?username=x01Jin&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake-dark.svg">
@@ -60,21 +18,17 @@ const jin = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/x01Jin/x01Jin/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=x01Jin&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Activity Graph" />
-
 </div>
 
-<br/>
-
----
+<br />
 
 <div align="center">
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="33%" align="center">
 
@@ -113,22 +67,50 @@ const jin = {
 </tr>
 </table>
 
-<br/>
+<br />
 
----
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center">
+
+<em>You are the player, reading words...</em><br /><br />
+<em>Shush... Sometimes the player read lines of code on a screen. Decoded them into words; decoded words into meaning; decoded meaning into feelings, emotions, theories, ideas, and the player started to breathe faster and deeper and realised it was alive, it was alive, those thousand deaths had not been real, the player was alive</em><br /><br />
+<em>You. You. You are alive.</em><br /><br />
+<em>and sometimes the player believed the universe had spoken to it through the sunlight that came through the shuffling leaves of the summer trees</em><br /><br />
+<em>and sometimes the player believed the universe had spoken to it through the zeros and ones, through the electricity of the world, through the scrolling words on a screen at the end of a dream</em><br /><br />
+<em>and the universe said I love you</em><br /><br />
+<em>and the universe said I love you because you are love.</em><br /><br />
+<em>And the game was over and the player woke up from the dream. And the player began a new dream. And the player dreamed again, dreamed better. And the player was the universe. And the player was love.</em><br /><br />
+<em>You are the player.</em><br /><br />
+<em>Wake up.</em>
+
+</td>
+</tr>
+</table>
+
+<sub><em>— Julian Gough, Minecraft End Poem (CC0)</em></sub>
+
+</div>
+
+<br />
 
 <div align="center">
 
 ## Let's Connect!
 
 <a href="mailto:ajph1082@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me!"/>
+</a>
+<a href="https://discord.com/users/489127925116043265">
+  <img src="https://img.shields.io/badge/Discord-x02jin-black?style=for-the-badge&logo=discord&logoColor=white" alt="DM me!"/>
 </a>
 <a href="https://x01jin.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/>
+<br />
 
 **I need help. T_T**
 
